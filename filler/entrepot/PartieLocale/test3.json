@@ -1,0 +1,59 @@
+{
+    "grille": {
+        "colonnes": [
+            {
+                "case": [
+                    {
+                        "couleur": "JAUNE"
+                    },
+                    {
+                        "couleur": "ROUGE"
+                    },
+                    {
+                        "couleur": "BLEU"
+                    }
+                ]
+            },
+            {
+                "case": [
+                    {
+                        "couleur": "BLEU"
+                    },
+                    {
+                        "couleur": "BLEU"
+                    },
+                    {
+                        "couleur": "BLEU"
+                    }
+                ]
+            },
+            {
+                "case": [
+                    {
+                        "couleur": "JAUNE"
+                    },
+                    {
+                        "couleur": "ROUGE"
+                    },
+                    {
+                        "couleur": "ROUGE"
+                    }
+                ]
+            },
+            {
+                "case": [
+                    {
+                        "couleur": "BLEU"
+                    },
+                    {
+                        "couleur": "ROUGE"
+                    },
+                    {
+                        "couleur": "JAUNE"
+                    }
+                ]
+            }
+        ]
+    },
+    "id": "test3"
+}
